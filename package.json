@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:thamaragerigr/TDD-Practice.git",
-  "author": "thamaragerigr <thamaragerigr@gmail.com>",
+  "author": "thamaragerig",
   "license": "MIT",
   "dependencies": {
     "jest": "^26.4.0"
